@@ -1,0 +1,6 @@
+token=NTAxMjU4MDUxNDEyODE5OTY4.DqW-0g.tRTPRA_fSCsX5WLo_uma3Fqfb7M
+owner=446784051320193035
+prefix=D
+game=Tybe Dhelp
+stayinchannel=true
+songinstatus=false
